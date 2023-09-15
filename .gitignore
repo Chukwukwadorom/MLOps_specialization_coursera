@@ -1,0 +1,7 @@
+# Ignore large files
+*.gz
+*.zip
+
+# Ignore specific file paths
+course_2/week_4/C2_W4_Lab_3_Images_feature_engineeering_with_images/Files/home/jovyan/work/data/cifar10/train.tfrecord
+course_2/week_4/C2_W4_Lab_3_Images_feature_engineeering_with_images/Files/home/jovyan/work/pipeline/Transform/transformed_examples/5/Split-eval/transformed_examples-00000-of-00001.gz
